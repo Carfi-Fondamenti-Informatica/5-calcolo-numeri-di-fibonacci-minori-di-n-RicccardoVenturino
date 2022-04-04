@@ -5,9 +5,7 @@ int main() {
     int n = 0, num1 = 1, num2 = 1, somma = 0;
     cout << "Inserire il valore fino al quale si vuole calcolare la serie di Fibonacci:" << endl;
     cin >> n;
-    if( n == 0) {
-        return 0;
-    }else if(n == 1) {
+    if(n == 1) {
         cout << 1 << endl;
     }else if(n == 2) {
         cout << 1 << endl;
