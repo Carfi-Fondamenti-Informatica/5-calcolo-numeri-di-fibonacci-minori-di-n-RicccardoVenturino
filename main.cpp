@@ -7,8 +7,6 @@ int main() {
     cin >> n;
     if(n == 1) {
         cout << 1 << endl;
-    }else if(n == 2) {
-        cout << 1 << endl;
         cout << 1 << endl;
     }else {
         cout << 1 << endl;
